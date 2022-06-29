@@ -1,4 +1,4 @@
-## Olá, Eu sou a Carolina[(Carol)]
+## Olá, Eu sou a Carolina[(Carol)]✨🦊
 
 - I'm currently perfecting myself Java & Ts 💻
 - Student: ADS 📚
