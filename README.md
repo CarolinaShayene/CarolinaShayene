@@ -3,11 +3,12 @@
 - 🌱 Estudando:Typescript,Python & C#
 - 😄 Pronouns:Ela/Dela
 
+<img align="leaft" alt="Gif" height="300" width="1800" style="border-radius:50px;"  src="https://im4.ezgif.com/tmp/ezgif-4-6d0d7cb4eb.gif">
 
 <div align="center">
   <a href="https://github.com/carolinashayene">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=carolinashayene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinashayene&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=carolinashayene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinashayene&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
