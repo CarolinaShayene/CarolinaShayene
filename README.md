@@ -1,7 +1,8 @@
-## Olá, Eu sou a Carolina Shayene
+## Olá, Eu sou a Carolina[(Carol)]
 
-- 🌱 Estudando:Typescript,Python & C#
-- 😄 Pronouns:Ela/Dela
+- I'm currently perfecting myself Java & Ts 💻
+- Student: ADS 📚
+- Pronouns: she/her 
 
 <img align="leaft" alt="Gif" height="300" width="1800" style="border-radius:50px;"  src="https://im4.ezgif.com/tmp/ezgif-4-6d0d7cb4eb.gif">
 
