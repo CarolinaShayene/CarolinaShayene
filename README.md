@@ -4,7 +4,7 @@
 - Student: ADS 📚
 - Pronouns: she/her 
 
-<img align="leaft" alt="Gif" height="300" width="1800" style="border-radius:50px;"  src="https://im4.ezgif.com/tmp/ezgif-4-6d0d7cb4eb.gif">
+<img align="leaft" alt="Gif" height="300" width="1800" style="border-radius:50px;"  src="https://giffiles.alphacoders.com/207/207123.gif">
 
 <div align="center">
   <a href="https://github.com/carolinashayene">
